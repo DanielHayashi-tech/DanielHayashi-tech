@@ -34,4 +34,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danielhayashi-tech&show_icons=true&locale=en" alt="danielhayashi-tech" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielhayashi-tech&" alt="danielhayashi-tech" /></p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=danielhayashi-tech&theme=ocean-dark&border_radius=3.5)](https://git.io/streak-stats)
